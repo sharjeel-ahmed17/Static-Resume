@@ -8,3 +8,4 @@ toggleButton === null || toggleButton === void 0 ? void 0 : toggleButton.addEven
         skillsSection.style.display = "none";
     }
 });
+

@@ -10,3 +10,4 @@ toggleButton?.addEventListener("click", () => {
     skillsSection!.style.display = "none";
   }
 });
+
